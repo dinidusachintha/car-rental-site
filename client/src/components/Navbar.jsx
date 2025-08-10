@@ -1,5 +1,5 @@
 import React from 'react';
-import assets from '../../assets';
+import assets from '../assets/assets'; // Adjust the path as necessary.
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
